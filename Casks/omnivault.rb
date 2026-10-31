@@ -4,7 +4,7 @@ cask "omnivault" do
 
   url "https://github.com/NightKnight24/OmniVault/releases/download/v#{version}/OmniVault-v#{version}-macOS-arm64.zip"
   name "OmniVault"
-  desc "Native macOS classic retro gaming preservation hub and catalog"
+  desc "Classic retro gaming preservation hub and 3D storefront"
   homepage "https://github.com/NightKnight24/OmniVault"
 
   livecheck do
