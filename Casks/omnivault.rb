@@ -1,10 +1,10 @@
 cask "omnivault" do
-  version "2.0.0"
-  sha256 "2a59b96be23c6da278632e50ff3e85767d4ad07f6b2b7530f065662582221351"
+  version "2.1.0"
+  sha256 "1f9e819be2f800e52fb682bfdddb2206c9ba89f11622487ee76c6b239daaaba7"
 
   url "https://github.com/NightKnight24/OmniVault/releases/download/v#{version}/OmniVault-v#{version}-macOS-arm64.zip"
   name "OmniVault"
-  desc "ROM finder, 122k+ syncable metadata catalog, cloud & sequential download manager"
+  desc "150+-system ROM finder, TheGamesDB metadata organizer, cloud & sequential download manager"
   homepage "https://github.com/NightKnight24/OmniVault"
 
   livecheck do
