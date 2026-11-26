@@ -1,6 +1,6 @@
 cask "omnivault" do
-  version "2.1.3"
-  sha256 "3dc899ad9cd26907911a645d77088678ea37d27b664cab2fc5e0100598869110"
+  version "2.1.5"
+  sha256 "b59b08220ad438912b0f58535865c3818b8e487856502cbb71a9b6dea906e2c7"
 
   url "https://github.com/NightKnight24/OmniVault/releases/download/v#{version}/OmniVault-v#{version}-macOS-arm64.zip"
   name "OmniVault"
